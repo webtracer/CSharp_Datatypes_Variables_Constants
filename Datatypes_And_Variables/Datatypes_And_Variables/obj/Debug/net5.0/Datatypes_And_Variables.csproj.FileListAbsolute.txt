@@ -1,0 +1,15 @@
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Datatypes_And_Variables\Datatypes_And_Variables\obj\Debug\net5.0\Datatypes_And_Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Datatypes_And_Variables\Datatypes_And_Variables\obj\Debug\net5.0\Datatypes_And_Variables.AssemblyInfoInputs.cache
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Datatypes_And_Variables\Datatypes_And_Variables\obj\Debug\net5.0\Datatypes_And_Variables.AssemblyInfo.cs
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Datatypes_And_Variables\Datatypes_And_Variables\obj\Debug\net5.0\Datatypes_And_Variables.csproj.CoreCompileInputs.cache
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Datatypes_And_Variables\Datatypes_And_Variables\bin\Debug\net5.0\Datatypes_And_Variables.exe
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Datatypes_And_Variables\Datatypes_And_Variables\bin\Debug\net5.0\Datatypes_And_Variables.deps.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Datatypes_And_Variables\Datatypes_And_Variables\bin\Debug\net5.0\Datatypes_And_Variables.runtimeconfig.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Datatypes_And_Variables\Datatypes_And_Variables\bin\Debug\net5.0\Datatypes_And_Variables.runtimeconfig.dev.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Datatypes_And_Variables\Datatypes_And_Variables\bin\Debug\net5.0\Datatypes_And_Variables.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Datatypes_And_Variables\Datatypes_And_Variables\bin\Debug\net5.0\ref\Datatypes_And_Variables.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Datatypes_And_Variables\Datatypes_And_Variables\bin\Debug\net5.0\Datatypes_And_Variables.pdb
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Datatypes_And_Variables\Datatypes_And_Variables\obj\Debug\net5.0\Datatypes_And_Variables.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Datatypes_And_Variables\Datatypes_And_Variables\obj\Debug\net5.0\ref\Datatypes_And_Variables.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Datatypes_And_Variables\Datatypes_And_Variables\obj\Debug\net5.0\Datatypes_And_Variables.pdb
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Datatypes_And_Variables\Datatypes_And_Variables\obj\Debug\net5.0\Datatypes_And_Variables.genruntimeconfig.cache

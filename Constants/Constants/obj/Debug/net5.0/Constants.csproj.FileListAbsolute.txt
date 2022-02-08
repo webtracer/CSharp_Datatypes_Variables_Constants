@@ -1,0 +1,15 @@
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Constants\Constants\bin\Debug\net5.0\Constants.exe
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Constants\Constants\bin\Debug\net5.0\Constants.deps.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Constants\Constants\bin\Debug\net5.0\Constants.runtimeconfig.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Constants\Constants\bin\Debug\net5.0\Constants.runtimeconfig.dev.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Constants\Constants\bin\Debug\net5.0\Constants.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Constants\Constants\bin\Debug\net5.0\ref\Constants.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Constants\Constants\bin\Debug\net5.0\Constants.pdb
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Constants\Constants\obj\Debug\net5.0\Constants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Constants\Constants\obj\Debug\net5.0\Constants.AssemblyInfoInputs.cache
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Constants\Constants\obj\Debug\net5.0\Constants.AssemblyInfo.cs
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Constants\Constants\obj\Debug\net5.0\Constants.csproj.CoreCompileInputs.cache
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Constants\Constants\obj\Debug\net5.0\Constants.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Constants\Constants\obj\Debug\net5.0\ref\Constants.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Constants\Constants\obj\Debug\net5.0\Constants.pdb
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Constants\Constants\obj\Debug\net5.0\Constants.genruntimeconfig.cache
